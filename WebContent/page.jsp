@@ -74,6 +74,5 @@
 			</c:forEach>
 		</c:if>
 	</div>
-	<a href = "">test</a>
 </body>
 </html>
