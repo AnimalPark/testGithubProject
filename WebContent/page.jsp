@@ -74,6 +74,6 @@
 			</c:forEach>
 		</c:if>
 	</div>
-	ㅎㅎ
+	<a href = "">test</a>
 </body>
 </html>
