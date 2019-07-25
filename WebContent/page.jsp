@@ -18,6 +18,7 @@
 </head>
 </head>
 <body>
+ 	<p1>황호영 왔다갑니다.</p1>
 	<c:if test="${empty list}">
 		<hr />
 		검색된 결과가 존재 하지 않습니다.
